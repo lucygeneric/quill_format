@@ -1,6 +1,6 @@
 name: quill_format
 description: Simple and expressive format for describing rich-text content created for Quill.js editor.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/glynskyi/quill-format
 
 environment:
