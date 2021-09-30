@@ -4,10 +4,11 @@ version: 1.0.2
 homepage: https://github.com/glynskyi/quill-format
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.14.0 <3.0.0"
 
 dependencies:
   collection: ^1.15.0
+  quill_delta: ^3.0.0-nullsafety.2
 
 dev_dependencies:
   test: ^1.17.8
