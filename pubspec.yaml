@@ -1,6 +1,6 @@
 name: quill_format
 description: Simple and expressive format for describing rich-text content created for Quill.js editor.
-version: 1.0.5
+version: 1.0.6
 homepage: https://github.com/glynskyi/quill-format
 
 environment:
@@ -10,7 +10,7 @@ dependencies:
   collection: ^1.15.0
   quill_delta:
     git:
-      url: github.com:lucygeneric/quill-delta-dart.git
+      url: https://github.com/lucygeneric/quill-delta-dart/
 
 dev_dependencies:
   test: ^1.17.8

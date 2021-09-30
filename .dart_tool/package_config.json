@@ -177,7 +177,7 @@
     },
     {
       "name": "quill_delta",
-      "rootUri": "file:///home/steve/.pub-cache/hosted/pub.dartlang.org/quill_delta-3.0.0-nullsafety.2",
+      "rootUri": "file:///home/steve/.pub-cache/git/quill-delta-dart-80b44723b304a7761405c47b6fe08b73fe8840b1/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -314,7 +314,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2021-09-30T01:30:58.466669Z",
+  "generated": "2021-09-30T02:00:24.485935Z",
   "generator": "pub",
   "generatorVersion": "2.14.2"
 }

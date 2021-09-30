@@ -207,9 +207,11 @@ packages:
   quill_delta:
     dependency: "direct main"
     description:
-      name: quill_delta
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "80b44723b304a7761405c47b6fe08b73fe8840b1"
+      url: "https://github.com/lucygeneric/quill-delta-dart/"
+    source: git
     version: "3.0.0-nullsafety.2"
   quiver:
     dependency: transitive
